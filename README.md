@@ -1,2 +1,2 @@
 # Comet.Extensions
-Custome extensions for visual studio
+Custom extensions for visual studio
